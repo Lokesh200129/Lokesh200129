@@ -47,7 +47,7 @@ Building high-performance, SEO-optimized web applications with modern practices
 
 ### 💳 Payment Integration
 Implementing secure, reliable payment solutions across multiple gateways
-- Stripe & Razorpay integration
+- Cashfree integration
 - Webhook handling & event management
 - PCI compliance & security best practices
 - Transaction management & reconciliation
@@ -63,8 +63,8 @@ Designing efficient, scalable systems that grow with your business
 
 ## 📌 Featured Projects
 
-### **Traffica** 🚗
-A modern traffic management system showcasing full-stack expertise
+### **Traffica Arbitrage**
+A modern traffic selling system showcasing full-stack expertise
 - **Tech**: Next.js, MongoDB, TypeScript, JWT, reCAPTCHA
 - **Highlights**: Real-time monitoring, secure authentication, responsive design
 - **Link**: [github.com/Lokesh200129/traffica](https://github.com/Lokesh200129/traffica)
@@ -99,10 +99,8 @@ I'm always interested in discussing:
 - Freelance & full-time opportunities
 
 **Reach out to me:**
-- 📧 **Email**: [Add your email here]
-- 💼 **LinkedIn**: [Add your LinkedIn URL]
-- 🌐 **Portfolio**: [Add your portfolio URL]
-- 📱 **Twitter/X**: [Add your handle]
+- 📧 **Email**: LokeshPal210310@gmail.com
+- 💼 **LinkedIn**: lokesh-pal-b8712118b
 
 ---
 
