@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Lokesh
 
-**Full-Stack Developer** | **Payment Integration Specialist** | **System Architect**  
+**Full-Stack Developer** | **System Architect** | **Payment Integration** 
 📍 *Based in Noida, India*
 
 ---
